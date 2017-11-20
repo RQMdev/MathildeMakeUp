@@ -26,9 +26,15 @@ l'Intégration des vidéos se fera-t-elle par le biais d'une chaine YouTube ou d
 3. ##### Deadline
   La question qui tue, pour quand aimerais-tu avoir le site ?
   Sachant que moi, je passe un examen fin Janvier, et que j'ai un projet de certif à monter pour cette date. C'est donc ma priorité :). Je peux quand même faire avancer ton site internet, mais je ne pourrai pas y consacrer énormément de temps ! ^^.
+4. ##### Gestion de l'hébergement
+Il faudra également s'occuper de payer un serveur sur lequel sera hébergé le site internet. Etant donné que ce n'est pas un gros site, cela ne devrais pas être très cher. Je pourrai bien sur t'aiguiller sur ce choix.
+Il faudra également acheter un nom de domaine, pour avoir une adresse internet sympathique, du style "www.mathilde-makeup.com". Il y a de tout niveau prix, et cela dépend du nom et de son extension (.com, .fr etc...).
+Ces frais seront à ta charge du coup, mais ce ne sera pas forcément très cher! :D
 
 ## Déroulement du Dévelopement
 Dans un premier temps, je mettrais bien de côté ce qui concerne la vidéo et la Masonry (Effet Patchwork), pour me focaliser sur l'interface d'administration et l'affichage de Photos.
+
+
 
 Voila ce que moi j'en ai compris ! N'hésite pas à me dire si j'ai compris quelque chose de travers, ou bien si j'ai oublié des bouts.
 Peut être s'organiser un rendez-vous ( téléphonique ? ), pour éclaircir certain point plus rapidement ?! :D
